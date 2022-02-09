@@ -11,7 +11,7 @@ import org.springframework.data.jpa.convert.threeten.Jsr310JpaConverters;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
-// @Configuration
+// @Configuration testins release-please
 // @EnableTransactionManagement(mode = AdviceMode.ASPECTJ)
 // @EntityScan(basePackageClasses = {User.class, Jsr310JpaConverters.class})
 // @EnableJpaAuditing(auditorAwareRef = "auditor")
